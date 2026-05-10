@@ -1,7 +1,3 @@
 Hello! This is my first Odin Project!
 
-The skills to be demonstrated from this project are:
-
-    1. Understanding of some tags and elements
-
-    2. Understanding of some Attributes
+I hope to be able to demonstrate my knowledge of the basics of html through the course of this project.
